@@ -1,0 +1,15 @@
+[submodule "lib/SFXManager"]
+	path = lib/SFXManager
+	url = https://github.com/Varollo/SFXManager.git
+[submodule "lib/MyTween"]
+	path = lib/MyTween
+	url = https://github.com/Varollo/MyTween.git
+[submodule "lib/UnityBasicFiniteStateMachine"]
+	path = lib/UnityBasicFiniteStateMachine
+	url = https://github.com/Varollo/UnityBasicFiniteStateMachine.git
+[submodule "lib/SavingSystemForUnity"]
+	path = lib/SavingSystemForUnity
+	url = https://github.com/Varollo/SavingSystemForUnity.git
+[submodule "lib/CSV-Localization-for-Unity"]
+	path = lib/CSV-Localization-for-Unity
+	url = https://github.com/Varollo/CSV-Localization-for-Unity.git

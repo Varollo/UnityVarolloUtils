@@ -1,0 +1,14 @@
+{
+  "name": "com.varollo.unity_varollo_utils",
+  "version": "1.0.0",
+  "displayName": "Unity Varollo Utils",
+  "description": "A bunch of utility packages for Unity.",
+  "unity": "2019.1",
+  "keywords": [],
+  "author": {
+    "name": "Gabriel Carollo (Varollo)",
+    "email": "rimoldi98@gmail.com",
+    "url": "http://varollo.github.io"
+  },
+  "type": "library"
+}
